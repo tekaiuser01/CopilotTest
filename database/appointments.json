@@ -7,7 +7,11 @@
       "date": "2025-12-31",
       "time": "09:00",
       "notes": "Regular checkup",
-      "status": "Scheduled"
+      "status": "Conducted",
+      "remark": "",
+      "charges": 0,
+      "medication": "",
+      "days": 1
     },
     {
       "id": 2,
@@ -16,6 +20,42 @@
       "date": "2025-12-31",
       "time": "09:20",
       "notes": "Follow-up consultation",
+      "status": "Conducted",
+      "remark": "",
+      "charges": 0,
+      "medication": "",
+      "days": 1
+    },
+    {
+      "id": 3,
+      "patientId": 1766476858291,
+      "doctorId": 1766477661109,
+      "date": "2025-12-31",
+      "time": "11:00",
+      "notes": "General checkup",
+      "status": "Conducted",
+      "remark": "medicaiton provided for headeack for 2 days",
+      "charges": 800,
+      "medications": [
+        {
+          "medicationId": "1"
+        },
+        {
+          "medicationId": "2"
+        },
+        {
+          "medicationId": "3"
+        }
+      ],
+      "days": 2
+    },
+    {
+      "id": 4,
+      "patientId": 1767072847515,
+      "doctorId": 1766489386938,
+      "date": "2025-12-31",
+      "time": "12:00",
+      "notes": "Orthopedic consultation",
       "status": "Scheduled"
     },
     {

@@ -3,17 +3,20 @@
     {
       "id": 1,
       "name": "Paracetamol",
-      "description": "Pain reliever and fever reducer. Used for mild to moderate pain relief and reducing fever."
+      "description": "Pain reliever and fever reducer. Used for mild to moderate pain relief and reducing fever.",
+      "price": 5
     },
     {
       "id": 2,
       "name": "Amoxicillin",
-      "description": "Antibiotic used to treat bacterial infections including pneumonia, bronchitis, and infections of the ear, nose, throat, and urinary tract."
+      "description": "Antibiotic used to treat bacterial infections including pneumonia, bronchitis, and infections of the ear, nose, throat, and urinary tract.",
+      "price": 10
     },
     {
       "id": 3,
       "name": "Ibuprofen",
-      "description": "Nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever and treat pain or inflammation."
+      "description": "Nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever and treat pain or inflammation.",
+      "price": 7
     }
   ]
 }
