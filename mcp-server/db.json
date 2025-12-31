@@ -1,0 +1,14 @@
+{
+  "patients": [
+    { "id": 1, "name": "John Doe", "history": "Fever" },
+    { "id": 2, "name": "Jane Smith", "history": "Headache" }
+  ],
+  "doctors": [
+    { "id": 1, "name": "Dr. Adams", "specialty": "General Physician" },
+    { "id": 2, "name": "Dr. Brown", "specialty": "Cardiologist" }
+  ],
+  "appointments": [
+    { "id": 1, "patientId": 1, "doctorId": 1, "date": "2025-12-24", "notes": "" },
+    { "id": 2, "patientId": 2, "doctorId": 2, "date": "2025-12-24", "notes": "" }
+  ]
+}

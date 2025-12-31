@@ -1,0 +1,24 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Alice Williams",
+      "specialization": "Cardiology"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Bob Brown",
+      "specialization": "Neurology, MD"
+    },
+    {
+      "id": 1766477661109,
+      "name": "Dr. D'Suza",
+      "specialization": "MD"
+    },
+    {
+      "id": 1766489386938,
+      "name": "Dr. Suresh",
+      "specialization": "Orthopedic"
+    }
+  ]
+}

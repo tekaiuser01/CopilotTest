@@ -1,0 +1,36 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 45,
+      "address": "123 Main St, Anytown, USA",
+      "mobile": "555-123-4567",
+      "history": "Hypertension"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "address": "456 Oak Ave, Anytown, USA",
+      "mobile": "555-987-6543",
+      "history": "Asthma"
+    },
+    {
+      "id": 1766476858291,
+      "name": "New Patient ",
+      "age": "44",
+      "address": "456 Oak Ave, Anytown, US",
+      "mobile": "555-123-456",
+      "history": "Asthama"
+    },
+    {
+      "id": 1767072847515,
+      "name": "Roshan Mishra",
+      "age": "18",
+      "address": "Malad E",
+      "mobile": "1234567890",
+      "history": "cold and flue"
+    }
+  ]
+}

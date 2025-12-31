@@ -1,0 +1,31 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "patientId": 1,
+      "doctorId": 1,
+      "date": "2025-12-31",
+      "time": "09:00",
+      "notes": "Regular checkup",
+      "status": "Scheduled"
+    },
+    {
+      "id": 2,
+      "patientId": 2,
+      "doctorId": 2,
+      "date": "2025-12-31",
+      "time": "09:20",
+      "notes": "Follow-up consultation",
+      "status": "Scheduled"
+    },
+    {
+      "id": 1767087943579,
+      "patientId": 1,
+      "doctorId": 1,
+      "date": "2025-12-31",
+      "time": "10:40",
+      "notes": "na",
+      "status": "Scheduled"
+    }
+  ]
+}
